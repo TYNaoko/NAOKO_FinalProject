@@ -21,7 +21,7 @@ I would say I am satisfied with the outcome. It is satisfying when the right ove
 aspects of the project are your own work.
 The signs were referenced from Wendy Tay on Youtube :https://youtu.be/HLk39WF72r0?si=xB1ia-oPZ-oeFbSg
 
-The base codes of the project were assisted AI. Which gave me the structure for me to fine tune the aesthetics and adjust any numbers/timings. 
+The base codes of the project were assisted with AI. Which gave me the structure for me to fine tune the aesthetics and adjust any numbers/timings. 
 
 • Provide instructions for compiling and running your project.
 
